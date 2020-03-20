@@ -1,0 +1,19 @@
+.wynik {
+  background-image: url('images/w.jpg');
+  background-repeat: no-repeat;
+  background-size: 30vh;
+  background-position: center;
+  height: 30vh;
+}
+
+.wynik.kamien {
+  background-image: url('images/k.jpg');
+}
+
+.wynik.papier {
+  background-image: url('images/p.jpg');
+}
+
+.wynik.nozyce {
+  background-image: url('images/n.jpg');
+}
